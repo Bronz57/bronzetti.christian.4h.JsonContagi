@@ -1,0 +1,1717 @@
+﻿[
+        {
+            "Data": "2/27/20",
+            "Progressivo": "1",
+            "Contagi": "0"
+        },
+        {
+            "Data": "2/28/20",
+            "Progressivo": "2",
+            "Contagi": "1"
+        },
+        {
+            "Data": "2/29/20",
+            "Progressivo": "3",
+            "Contagi": "3"
+        },
+        {
+            "Data": "3/1/20",
+            "Progressivo": "4",
+            "Contagi": "6"
+        },
+        {
+            "Data": "3/2/20",
+            "Progressivo": "5",
+            "Contagi": "9"
+        },
+        {
+            "Data": "3/3/20",
+            "Progressivo": "6",
+            "Contagi": "15"
+        },
+        {
+            "Data": "3/4/20",
+            "Progressivo": "7",
+            "Contagi": "16"
+        },
+        {
+            "Data": "3/5/20",
+            "Progressivo": "8",
+            "Contagi": "19"
+        },
+        {
+            "Data": "3/6/20",
+            "Progressivo": "9",
+            "Contagi": "24"
+        },
+        {
+            "Data": "3/7/20",
+            "Progressivo": "10",
+            "Contagi": "33"
+        },
+        {
+            "Data": "3/8/20",
+            "Progressivo": "11",
+            "Contagi": "68"
+        },
+        {
+            "Data": "3/9/20",
+            "Progressivo": "12",
+            "Contagi": "93"
+        },
+        {
+            "Data": "3/10/20",
+            "Progressivo": "13",
+            "Contagi": "104"
+        },
+        {
+            "Data": "3/11/20",
+            "Progressivo": "14",
+            "Contagi": "113"
+        },
+        {
+            "Data": "3/12/20",
+            "Progressivo": "15",
+            "Contagi": "164"
+        },
+        {
+            "Data": "3/13/20",
+            "Progressivo": "16",
+            "Contagi": "206"
+        },
+        {
+            "Data": "3/14/20",
+            "Progressivo": "17",
+            "Contagi": "245"
+        },
+        {
+            "Data": "3/15/20",
+            "Progressivo": "18",
+            "Contagi": "312"
+        },
+        {
+            "Data": "3/16/20",
+            "Progressivo": "19",
+            "Contagi": "363"
+        },
+        {
+            "Data": "3/17/20",
+            "Progressivo": "20",
+            "Contagi": "398"
+        },
+        {
+            "Data": "3/18/20",
+            "Progressivo": "21",
+            "Contagi": "425"
+        },
+        {
+            "Data": "3/19/20",
+            "Progressivo": "22",
+            "Contagi": "509"
+        },
+        {
+            "Data": "3/20/20",
+            "Progressivo": "23",
+            "Contagi": "570"
+        },
+        {
+            "Data": "3/21/20",
+            "Progressivo": "24",
+            "Contagi": "613"
+        },
+        {
+            "Data": "3/22/20",
+            "Progressivo": "25",
+            "Contagi": "691"
+        },
+        {
+            "Data": "3/23/20",
+            "Progressivo": "26",
+            "Contagi": "757"
+        },
+        {
+            "Data": "3/24/20",
+            "Progressivo": "27",
+            "Contagi": "826"
+        },
+        {
+            "Data": "3/25/20",
+            "Progressivo": "28",
+            "Contagi": "942"
+        },
+        {
+            "Data": "3/26/20",
+            "Progressivo": "29",
+            "Contagi": "1035"
+        },
+        {
+            "Data": "3/27/20",
+            "Progressivo": "30",
+            "Contagi": "1084"
+        },
+        {
+            "Data": "3/28/20",
+            "Progressivo": "31",
+            "Contagi": "1136"
+        },
+        {
+            "Data": "3/29/20",
+            "Progressivo": "32",
+            "Contagi": "1189"
+        },
+        {
+            "Data": "3/30/20",
+            "Progressivo": "33",
+            "Contagi": "1264"
+        },
+        {
+            "Data": "3/31/20",
+            "Progressivo": "34",
+            "Contagi": "1323"
+        },
+        {
+            "Data": "4/1/20",
+            "Progressivo": "35",
+            "Contagi": "1357"
+        },
+        {
+            "Data": "4/2/20",
+            "Progressivo": "36",
+            "Contagi": "1382"
+        },
+        {
+            "Data": "4/3/20",
+            "Progressivo": "37",
+            "Contagi": "1407"
+        },
+        {
+            "Data": "4/4/20",
+            "Progressivo": "38",
+            "Contagi": "1445"
+        },
+        {
+            "Data": "4/5/20",
+            "Progressivo": "39",
+            "Contagi": "1456"
+        },
+        {
+            "Data": "4/6/20",
+            "Progressivo": "40",
+            "Contagi": "1511"
+        },
+        {
+            "Data": "4/7/20",
+            "Progressivo": "41",
+            "Contagi": "1523"
+        },
+        {
+            "Data": "4/8/20",
+            "Progressivo": "42",
+            "Contagi": "1553"
+        },
+        {
+            "Data": "4/9/20",
+            "Progressivo": "43",
+            "Contagi": "1575"
+        },
+        {
+            "Data": "4/10/20",
+            "Progressivo": "44",
+            "Contagi": "1584"
+        },
+        {
+            "Data": "4/11/20",
+            "Progressivo": "45",
+            "Contagi": "1596"
+        },
+        {
+            "Data": "4/12/20",
+            "Progressivo": "46",
+            "Contagi": "1613"
+        },
+        {
+            "Data": "4/13/20",
+            "Progressivo": "47",
+            "Contagi": "1651"
+        },
+        {
+            "Data": "4/14/20",
+            "Progressivo": "48",
+            "Contagi": "1677"
+        },
+        {
+            "Data": "4/15/20",
+            "Progressivo": "49",
+            "Contagi": "1706"
+        },
+        {
+            "Data": "4/16/20",
+            "Progressivo": "50",
+            "Contagi": "1727"
+        },
+        {
+            "Data": "4/17/20",
+            "Progressivo": "51",
+            "Contagi": "1740"
+        },
+        {
+            "Data": "4/18/20",
+            "Progressivo": "52",
+            "Contagi": "1749"
+        },
+        {
+            "Data": "4/19/20",
+            "Progressivo": "53",
+            "Contagi": "1774"
+        },
+        {
+            "Data": "4/20/20",
+            "Progressivo": "54",
+            "Contagi": "1791"
+        },
+        {
+            "Data": "4/21/20",
+            "Progressivo": "55",
+            "Contagi": "1805"
+        },
+        {
+            "Data": "4/22/20",
+            "Progressivo": "56",
+            "Contagi": "1818"
+        },
+        {
+            "Data": "4/23/20",
+            "Progressivo": "57",
+            "Contagi": "1846"
+        },
+        {
+            "Data": "4/24/20",
+            "Progressivo": "58",
+            "Contagi": "1852"
+        },
+        {
+            "Data": "4/25/20",
+            "Progressivo": "59",
+            "Contagi": "1874"
+        },
+        {
+            "Data": "4/26/20",
+            "Progressivo": "60",
+            "Contagi": "1911"
+        },
+        {
+            "Data": "4/27/20",
+            "Progressivo": "61",
+            "Contagi": "1927"
+        },
+        {
+            "Data": "4/28/20",
+            "Progressivo": "62",
+            "Contagi": "1937"
+        },
+        {
+            "Data": "4/29/20",
+            "Progressivo": "63",
+            "Contagi": "1953"
+        },
+        {
+            "Data": "4/30/20",
+            "Progressivo": "64",
+            "Contagi": "1973"
+        },
+        {
+            "Data": "5/1/20",
+            "Progressivo": "65",
+            "Contagi": "1990"
+        },
+        {
+            "Data": "5/2/20",
+            "Progressivo": "66",
+            "Contagi": "2005"
+        },
+        {
+            "Data": "5/3/20",
+            "Progressivo": "67",
+            "Contagi": "2022"
+        },
+        {
+            "Data": "5/4/20",
+            "Progressivo": "68",
+            "Contagi": "2027"
+        },
+        {
+            "Data": "5/5/20",
+            "Progressivo": "69",
+            "Contagi": "2036"
+        },
+        {
+            "Data": "5/6/20",
+            "Progressivo": "70",
+            "Contagi": "2043"
+        },
+        {
+            "Data": "5/7/20",
+            "Progressivo": "71",
+            "Contagi": "2044"
+        },
+        {
+            "Data": "5/8/20",
+            "Progressivo": "72",
+            "Contagi": "2055"
+        },
+        {
+            "Data": "5/9/20",
+            "Progressivo": "73",
+            "Contagi": "2056"
+        },
+        {
+            "Data": "5/10/20",
+            "Progressivo": "74",
+            "Contagi": "2068"
+        },
+        {
+            "Data": "5/11/20",
+            "Progressivo": "75",
+            "Contagi": "2069"
+        },
+        {
+            "Data": "5/12/20",
+            "Progressivo": "76",
+            "Contagi": "2074"
+        },
+        {
+            "Data": "5/13/20",
+            "Progressivo": "77",
+            "Contagi": "2077"
+        },
+        {
+            "Data": "5/14/20",
+            "Progressivo": "78",
+            "Contagi": "2079"
+        },
+        {
+            "Data": "5/15/20",
+            "Progressivo": "79",
+            "Contagi": "2083"
+        },
+        {
+            "Data": "5/16/20",
+            "Progressivo": "80",
+            "Contagi": "2087"
+        },
+        {
+            "Data": "5/17/20",
+            "Progressivo": "81",
+            "Contagi": "2092"
+        },
+        {
+            "Data": "5/18/20",
+            "Progressivo": "82",
+            "Contagi": "2097"
+        },
+        {
+            "Data": "5/19/20",
+            "Progressivo": "83",
+            "Contagi": "2098"
+        },
+        {
+            "Data": "5/20/20",
+            "Progressivo": "84",
+            "Contagi": "2103"
+        },
+        {
+            "Data": "5/21/20",
+            "Progressivo": "85",
+            "Contagi": "2107"
+        },
+        {
+            "Data": "5/22/20",
+            "Progressivo": "86",
+            "Contagi": "2113"
+        },
+        {
+            "Data": "5/23/20",
+            "Progressivo": "87",
+            "Contagi": "2122"
+        },
+        {
+            "Data": "5/24/20",
+            "Progressivo": "88",
+            "Contagi": "2134"
+        },
+        {
+            "Data": "5/25/20",
+            "Progressivo": "89",
+            "Contagi": "2134"
+        },
+        {
+            "Data": "5/26/20",
+            "Progressivo": "90",
+            "Contagi": "2138"
+        },
+        {
+            "Data": "5/27/20",
+            "Progressivo": "91",
+            "Contagi": "2142"
+        },
+        {
+            "Data": "5/28/20",
+            "Progressivo": "92",
+            "Contagi": "2145"
+        },
+        {
+            "Data": "5/29/20",
+            "Progressivo": "93",
+            "Contagi": "2150"
+        },
+        {
+            "Data": "5/30/20",
+            "Progressivo": "94",
+            "Contagi": "2152"
+        },
+        {
+            "Data": "5/31/20",
+            "Progressivo": "95",
+            "Contagi": "2154"
+        },
+        {
+            "Data": "6/1/20",
+            "Progressivo": "96",
+            "Contagi": "2154"
+        },
+        {
+            "Data": "6/2/20",
+            "Progressivo": "97",
+            "Contagi": "2154"
+        },
+        {
+            "Data": "6/3/20",
+            "Progressivo": "98",
+            "Contagi": "2156"
+        },
+        {
+            "Data": "6/4/20",
+            "Progressivo": "99",
+            "Contagi": "2156"
+        },
+        {
+            "Data": "6/5/20",
+            "Progressivo": "100",
+            "Contagi": "2156"
+        },
+        {
+            "Data": "6/6/20",
+            "Progressivo": "101",
+            "Contagi": "2158"
+        },
+        {
+            "Data": "6/7/20",
+            "Progressivo": "102",
+            "Contagi": "2159"
+        },
+        {
+            "Data": "6/8/20",
+            "Progressivo": "103",
+            "Contagi": "2160"
+        },
+        {
+            "Data": "6/9/20",
+            "Progressivo": "104",
+            "Contagi": "2161"
+        },
+        {
+            "Data": "6/10/20",
+            "Progressivo": "105",
+            "Contagi": "2164"
+        },
+        {
+            "Data": "6/11/20",
+            "Progressivo": "106",
+            "Contagi": "2165"
+        },
+        {
+            "Data": "6/12/20",
+            "Progressivo": "107",
+            "Contagi": "2167"
+        },
+        {
+            "Data": "6/13/20",
+            "Progressivo": "108",
+            "Contagi": "2168"
+        },
+        {
+            "Data": "6/14/20",
+            "Progressivo": "109",
+            "Contagi": "2168"
+        },
+        {
+            "Data": "6/15/20",
+            "Progressivo": "110",
+            "Contagi": "2168"
+        },
+        {
+            "Data": "6/16/20",
+            "Progressivo": "111",
+            "Contagi": "2168"
+        },
+        {
+            "Data": "6/17/20",
+            "Progressivo": "112",
+            "Contagi": "2169"
+        },
+        {
+            "Data": "6/18/20",
+            "Progressivo": "113",
+            "Contagi": "2170"
+        },
+        {
+            "Data": "6/19/20",
+            "Progressivo": "114",
+            "Contagi": "2172"
+        },
+        {
+            "Data": "6/20/20",
+            "Progressivo": "115",
+            "Contagi": "2174"
+        },
+        {
+            "Data": "6/21/20",
+            "Progressivo": "116",
+            "Contagi": "2178"
+        },
+        {
+            "Data": "6/22/20",
+            "Progressivo": "117",
+            "Contagi": "2179"
+        },
+        {
+            "Data": "6/23/20",
+            "Progressivo": "118",
+            "Contagi": "2179"
+        },
+        {
+            "Data": "6/24/20",
+            "Progressivo": "119",
+            "Contagi": "2178"
+        },
+        {
+            "Data": "6/25/20",
+            "Progressivo": "120",
+            "Contagi": "2136"
+        },
+        {
+            "Data": "6/26/20",
+            "Progressivo": "121",
+            "Contagi": "2137"
+        },
+        {
+            "Data": "6/27/20",
+            "Progressivo": "122",
+            "Contagi": "2133"
+        },
+        {
+            "Data": "6/28/20",
+            "Progressivo": "123",
+            "Contagi": "2143"
+        },
+        {
+            "Data": "6/29/20",
+            "Progressivo": "124",
+            "Contagi": "2146"
+        },
+        {
+            "Data": "6/30/20",
+            "Progressivo": "125",
+            "Contagi": "2146"
+        },
+        {
+            "Data": "7/1/20",
+            "Progressivo": "126",
+            "Contagi": "2147"
+        },
+        {
+            "Data": "7/2/20",
+            "Progressivo": "127",
+            "Contagi": "2148"
+        },
+        {
+            "Data": "7/3/20",
+            "Progressivo": "128",
+            "Contagi": "2149"
+        },
+        {
+            "Data": "7/4/20",
+            "Progressivo": "129",
+            "Contagi": "2149"
+        },
+        {
+            "Data": "7/5/20",
+            "Progressivo": "130",
+            "Contagi": "2150"
+        },
+        {
+            "Data": "7/6/20",
+            "Progressivo": "131",
+            "Contagi": "2150"
+        },
+        {
+            "Data": "7/7/20",
+            "Progressivo": "132",
+            "Contagi": "2152"
+        },
+        {
+            "Data": "7/8/20",
+            "Progressivo": "133",
+            "Contagi": "2159"
+        },
+        {
+            "Data": "7/9/20",
+            "Progressivo": "134",
+            "Contagi": "2166"
+        },
+        {
+            "Data": "7/10/20",
+            "Progressivo": "135",
+            "Contagi": "2167"
+        },
+        {
+            "Data": "7/11/20",
+            "Progressivo": "136",
+            "Contagi": "2168"
+        },
+        {
+            "Data": "7/12/20",
+            "Progressivo": "137",
+            "Contagi": "2170"
+        },
+        {
+            "Data": "7/13/20",
+            "Progressivo": "138",
+            "Contagi": "2172"
+        },
+        {
+            "Data": "7/14/20",
+            "Progressivo": "139",
+            "Contagi": "2173"
+        },
+        {
+            "Data": "7/15/20",
+            "Progressivo": "140",
+            "Contagi": "2174"
+        },
+        {
+            "Data": "7/16/20",
+            "Progressivo": "141",
+            "Contagi": "2177"
+        },
+        {
+            "Data": "7/17/20",
+            "Progressivo": "142",
+            "Contagi": "2177"
+        },
+        {
+            "Data": "7/18/20",
+            "Progressivo": "143",
+            "Contagi": "2177"
+        },
+        {
+            "Data": "7/19/20",
+            "Progressivo": "144",
+            "Contagi": "2178"
+        },
+        {
+            "Data": "7/20/20",
+            "Progressivo": "145",
+            "Contagi": "2178"
+        },
+        {
+            "Data": "7/21/20",
+            "Progressivo": "146",
+            "Contagi": "2181"
+        },
+        {
+            "Data": "7/22/20",
+            "Progressivo": "147",
+            "Contagi": "2185"
+        },
+        {
+            "Data": "7/23/20",
+            "Progressivo": "148",
+            "Contagi": "2195"
+        },
+        {
+            "Data": "7/24/20",
+            "Progressivo": "149",
+            "Contagi": "2206"
+        },
+        {
+            "Data": "7/25/20",
+            "Progressivo": "150",
+            "Contagi": "2214"
+        },
+        {
+            "Data": "7/26/20",
+            "Progressivo": "151",
+            "Contagi": "2217"
+        },
+        {
+            "Data": "7/27/20",
+            "Progressivo": "152",
+            "Contagi": "2222"
+        },
+        {
+            "Data": "7/28/20",
+            "Progressivo": "153",
+            "Contagi": "2226"
+        },
+        {
+            "Data": "7/29/20",
+            "Progressivo": "154",
+            "Contagi": "2235"
+        },
+        {
+            "Data": "7/30/20",
+            "Progressivo": "155",
+            "Contagi": "2239"
+        },
+        {
+            "Data": "7/31/20",
+            "Progressivo": "156",
+            "Contagi": "2246"
+        },
+        {
+            "Data": "8/1/20",
+            "Progressivo": "157",
+            "Contagi": "2249"
+        },
+        {
+            "Data": "8/2/20",
+            "Progressivo": "158",
+            "Contagi": "2251"
+        },
+        {
+            "Data": "8/3/20",
+            "Progressivo": "159",
+            "Contagi": "2254"
+        },
+        {
+            "Data": "8/4/20",
+            "Progressivo": "160",
+            "Contagi": "2256"
+        },
+        {
+            "Data": "8/5/20",
+            "Progressivo": "161",
+            "Contagi": "2262"
+        },
+        {
+            "Data": "8/6/20",
+            "Progressivo": "162",
+            "Contagi": "2268"
+        },
+        {
+            "Data": "8/7/20",
+            "Progressivo": "163",
+            "Contagi": "2278"
+        },
+        {
+            "Data": "8/8/20",
+            "Progressivo": "164",
+            "Contagi": "2281"
+        },
+        {
+            "Data": "8/9/20",
+            "Progressivo": "165",
+            "Contagi": "2287"
+        },
+        {
+            "Data": "8/10/20",
+            "Progressivo": "166",
+            "Contagi": "2289"
+        },
+        {
+            "Data": "8/11/20",
+            "Progressivo": "167",
+            "Contagi": "2292"
+        },
+        {
+            "Data": "8/12/20",
+            "Progressivo": "168",
+            "Contagi": "2294"
+        },
+        {
+            "Data": "8/13/20",
+            "Progressivo": "169",
+            "Contagi": "2295"
+        },
+        {
+            "Data": "8/14/20",
+            "Progressivo": "170",
+            "Contagi": "2296"
+        },
+        {
+            "Data": "8/15/20",
+            "Progressivo": "171",
+            "Contagi": "2298"
+        },
+        {
+            "Data": "8/16/20",
+            "Progressivo": "172",
+            "Contagi": "2298"
+        },
+        {
+            "Data": "8/17/20",
+            "Progressivo": "173",
+            "Contagi": "2298"
+        },
+        {
+            "Data": "8/18/20",
+            "Progressivo": "174",
+            "Contagi": "2298"
+        },
+        {
+            "Data": "8/19/20",
+            "Progressivo": "175",
+            "Contagi": "2301"
+        },
+        {
+            "Data": "8/20/20",
+            "Progressivo": "176",
+            "Contagi": "2301"
+        },
+        {
+            "Data": "8/21/20",
+            "Progressivo": "177",
+            "Contagi": "2306"
+        },
+        {
+            "Data": "8/22/20",
+            "Progressivo": "178",
+            "Contagi": "2309"
+        },
+        {
+            "Data": "8/23/20",
+            "Progressivo": "179",
+            "Contagi": "2313"
+        },
+        {
+            "Data": "8/24/20",
+            "Progressivo": "180",
+            "Contagi": "2318"
+        },
+        {
+            "Data": "8/25/20",
+            "Progressivo": "181",
+            "Contagi": "2319"
+        },
+        {
+            "Data": "8/26/20",
+            "Progressivo": "182",
+            "Contagi": "2322"
+        },
+        {
+            "Data": "8/27/20",
+            "Progressivo": "183",
+            "Contagi": "2338"
+        },
+        {
+            "Data": "8/28/20",
+            "Progressivo": "184",
+            "Contagi": "2344"
+        },
+        {
+            "Data": "8/29/20",
+            "Progressivo": "185",
+            "Contagi": "2353"
+        },
+        {
+            "Data": "8/30/20",
+            "Progressivo": "186",
+            "Contagi": "2360"
+        },
+        {
+            "Data": "8/31/20",
+            "Progressivo": "187",
+            "Contagi": "2363"
+        },
+        {
+            "Data": "9/1/20",
+            "Progressivo": "188",
+            "Contagi": "2366"
+        },
+        {
+            "Data": "9/2/20",
+            "Progressivo": "189",
+            "Contagi": "2369"
+        },
+        {
+            "Data": "9/3/20",
+            "Progressivo": "190",
+            "Contagi": "2371"
+        },
+        {
+            "Data": "9/4/20",
+            "Progressivo": "191",
+            "Contagi": "2376"
+        },
+        {
+            "Data": "9/5/20",
+            "Progressivo": "192",
+            "Contagi": "2382"
+        },
+        {
+            "Data": "9/6/20",
+            "Progressivo": "193",
+            "Contagi": "2385"
+        },
+        {
+            "Data": "9/7/20",
+            "Progressivo": "194",
+            "Contagi": "2392"
+        },
+        {
+            "Data": "9/8/20",
+            "Progressivo": "195",
+            "Contagi": "2398"
+        },
+        {
+            "Data": "9/9/20",
+            "Progressivo": "196",
+            "Contagi": "2404"
+        },
+        {
+            "Data": "9/10/20",
+            "Progressivo": "197",
+            "Contagi": "2407"
+        },
+        {
+            "Data": "9/11/20",
+            "Progressivo": "198",
+            "Contagi": "2417"
+        },
+        {
+            "Data": "9/12/20",
+            "Progressivo": "199",
+            "Contagi": "2426"
+        },
+        {
+            "Data": "9/13/20",
+            "Progressivo": "200",
+            "Contagi": "2431"
+        },
+        {
+            "Data": "9/14/20",
+            "Progressivo": "201",
+            "Contagi": "2438"
+        },
+        {
+            "Data": "9/15/20",
+            "Progressivo": "202",
+            "Contagi": "2451"
+        },
+        {
+            "Data": "9/16/20",
+            "Progressivo": "203",
+            "Contagi": "2456"
+        },
+        {
+            "Data": "9/17/20",
+            "Progressivo": "204",
+            "Contagi": "2465"
+        },
+        {
+            "Data": "9/18/20",
+            "Progressivo": "205",
+            "Contagi": "2467"
+        },
+        {
+            "Data": "9/19/20",
+            "Progressivo": "206",
+            "Contagi": "2471"
+        },
+        {
+            "Data": "9/20/20",
+            "Progressivo": "207",
+            "Contagi": "2472"
+        },
+        {
+            "Data": "9/21/20",
+            "Progressivo": "208",
+            "Contagi": "2479"
+        },
+        {
+            "Data": "9/22/20",
+            "Progressivo": "209",
+            "Contagi": "2479"
+        },
+        {
+            "Data": "9/23/20",
+            "Progressivo": "210",
+            "Contagi": "2488"
+        },
+        {
+            "Data": "9/24/20",
+            "Progressivo": "211",
+            "Contagi": "2492"
+        },
+        {
+            "Data": "9/25/20",
+            "Progressivo": "212",
+            "Contagi": "2493"
+        },
+        {
+            "Data": "9/26/20",
+            "Progressivo": "213",
+            "Contagi": "2495"
+        },
+        {
+            "Data": "9/27/20",
+            "Progressivo": "214",
+            "Contagi": "2501"
+        },
+        {
+            "Data": "9/28/20",
+            "Progressivo": "215",
+            "Contagi": "2503"
+        },
+        {
+            "Data": "9/29/20",
+            "Progressivo": "216",
+            "Contagi": "2510"
+        },
+        {
+            "Data": "9/30/20",
+            "Progressivo": "217",
+            "Contagi": "2514"
+        },
+        {
+            "Data": "10/1/20",
+            "Progressivo": "218",
+            "Contagi": "2519"
+        },
+        {
+            "Data": "10/2/20",
+            "Progressivo": "219",
+            "Contagi": "2534"
+        },
+        {
+            "Data": "10/3/20",
+            "Progressivo": "220",
+            "Contagi": "2550"
+        },
+        {
+            "Data": "10/4/20",
+            "Progressivo": "221",
+            "Contagi": "2586"
+        },
+        {
+            "Data": "10/5/20",
+            "Progressivo": "222",
+            "Contagi": "2594"
+        },
+        {
+            "Data": "10/6/20",
+            "Progressivo": "223",
+            "Contagi": "2619"
+        },
+        {
+            "Data": "10/7/20",
+            "Progressivo": "224",
+            "Contagi": "2640"
+        },
+        {
+            "Data": "10/8/20",
+            "Progressivo": "225",
+            "Contagi": "2656"
+        },
+        {
+            "Data": "10/9/20",
+            "Progressivo": "226",
+            "Contagi": "2672"
+        },
+        {
+            "Data": "10/10/20",
+            "Progressivo": "227",
+            "Contagi": "2710"
+        },
+        {
+            "Data": "10/11/20",
+            "Progressivo": "228",
+            "Contagi": "2757"
+        },
+        {
+            "Data": "10/12/20",
+            "Progressivo": "229",
+            "Contagi": "2789"
+        },
+        {
+            "Data": "10/13/20",
+            "Progressivo": "230",
+            "Contagi": "2814"
+        },
+        {
+            "Data": "10/14/20",
+            "Progressivo": "231",
+            "Contagi": "2864"
+        },
+        {
+            "Data": "10/15/20",
+            "Progressivo": "232",
+            "Contagi": "2916"
+        },
+        {
+            "Data": "10/16/20",
+            "Progressivo": "233",
+            "Contagi": "2972"
+        },
+        {
+            "Data": "10/17/20",
+            "Progressivo": "234",
+            "Contagi": "3040"
+        },
+        {
+            "Data": "10/18/20",
+            "Progressivo": "235",
+            "Contagi": "3071"
+        },
+        {
+            "Data": "10/19/20",
+            "Progressivo": "236",
+            "Contagi": "3145"
+        },
+        {
+            "Data": "10/20/20",
+            "Progressivo": "237",
+            "Contagi": "3170"
+        },
+        {
+            "Data": "10/21/20",
+            "Progressivo": "238",
+            "Contagi": "3266"
+        },
+        {
+            "Data": "10/22/20",
+            "Progressivo": "239",
+            "Contagi": "3357"
+        },
+        {
+            "Data": "10/23/20",
+            "Progressivo": "240",
+            "Contagi": "3474"
+        },
+        {
+            "Data": "10/24/20",
+            "Progressivo": "241",
+            "Contagi": "3576"
+        },
+        {
+            "Data": "10/25/20",
+            "Progressivo": "242",
+            "Contagi": "3732"
+        },
+        {
+            "Data": "10/26/20",
+            "Progressivo": "243",
+            "Contagi": "3840"
+        },
+        {
+            "Data": "10/27/20",
+            "Progressivo": "244",
+            "Contagi": "3978"
+        },
+        {
+            "Data": "10/28/20",
+            "Progressivo": "245",
+            "Contagi": "4088"
+        },
+        {
+            "Data": "10/29/20",
+            "Progressivo": "246",
+            "Contagi": "4194"
+        },
+        {
+            "Data": "10/30/20",
+            "Progressivo": "247",
+            "Contagi": "4351"
+        },
+        {
+            "Data": "10/31/20",
+            "Progressivo": "248",
+            "Contagi": "4527"
+        },
+        {
+            "Data": "11/1/20",
+            "Progressivo": "249",
+            "Contagi": "4595"
+        },
+        {
+            "Data": "11/2/20",
+            "Progressivo": "250",
+            "Contagi": "4715"
+        },
+        {
+            "Data": "11/3/20",
+            "Progressivo": "251",
+            "Contagi": "4835"
+        },
+        {
+            "Data": "11/4/20",
+            "Progressivo": "252",
+            "Contagi": "4969"
+        },
+        {
+            "Data": "11/5/20",
+            "Progressivo": "253",
+            "Contagi": "5120"
+        },
+        {
+            "Data": "11/6/20",
+            "Progressivo": "254",
+            "Contagi": "5312"
+        },
+        {
+            "Data": "11/7/20",
+            "Progressivo": "255",
+            "Contagi": "5377"
+        },
+        {
+            "Data": "11/8/20",
+            "Progressivo": "256",
+            "Contagi": "5568"
+        },
+        {
+            "Data": "11/9/20",
+            "Progressivo": "257",
+            "Contagi": "5703"
+        },
+        {
+            "Data": "11/10/20",
+            "Progressivo": "258",
+            "Contagi": "5910"
+        },
+        {
+            "Data": "11/11/20",
+            "Progressivo": "259",
+            "Contagi": "6056"
+        },
+        {
+            "Data": "11/12/20",
+            "Progressivo": "260",
+            "Contagi": "6223"
+        },
+        {
+            "Data": "11/13/20",
+            "Progressivo": "261",
+            "Contagi": "6379"
+        },
+        {
+            "Data": "11/14/20",
+            "Progressivo": "262",
+            "Contagi": "6505"
+        },
+        {
+            "Data": "11/15/20",
+            "Progressivo": "262",
+            "Contagi": "6721"
+        },
+        {
+            "Data": "11/16/20",
+            "Progressivo": "263",
+            "Contagi": "6966"
+        },
+        {
+            "Data": "11/17/20",
+            "Progressivo": "264",
+            "Contagi": "7164"
+        },
+        {
+            "Data": "11/18/20",
+            "Progressivo": "265",
+            "Contagi": "7325"
+        },
+        {
+            "Data": "11/19/20",
+            "Progressivo": "266",
+            "Contagi": "7490"
+        },
+        {
+            "Data": "11/20/20",
+            "Progressivo": "267",
+            "Contagi": "7597"
+        },
+        {
+            "Data": "11/21/20",
+            "Progressivo": "268",
+            "Contagi": "7840"
+        },
+        {
+            "Data": "11/22/20",
+            "Progressivo": "269",
+            "Contagi": "8174"
+        },
+        {
+            "Data": "11/23/20",
+            "Progressivo": "270",
+            "Contagi": "8433"
+        },
+        {
+            "Data": "11/24/20",
+            "Progressivo": "271",
+            "Contagi": "8634"
+        },
+        {
+            "Data": "11/25/20",
+            "Progressivo": "272",
+            "Contagi": "8902"
+        },
+        {
+            "Data": "11/26/20",
+            "Progressivo": "273",
+            "Contagi": "9074"
+        },
+        {
+            "Data": "11/27/20",
+            "Progressivo": "274",
+            "Contagi": "9178"
+        },
+        {
+            "Data": "11/28/20",
+            "Progressivo": "275",
+            "Contagi": "9335"
+        },
+        {
+            "Data": "11/29/20",
+            "Progressivo": "276",
+            "Contagi": "9512"
+        },
+        {
+            "Data": "11/30/20",
+            "Progressivo": "277",
+            "Contagi": "9765"
+        },
+        {
+            "Data": "12/1/20",
+            "Progressivo": "278",
+            "Contagi": "9883"
+        },
+        {
+            "Data": "12/2/20",
+            "Progressivo": "279",
+            "Contagi": "10168"
+        },
+        {
+            "Data": "12/3/20",
+            "Progressivo": "280",
+            "Contagi": "10358"
+        },
+        {
+            "Data": "12/4/20",
+            "Progressivo": "281",
+            "Contagi": "10562"
+        },
+        {
+            "Data": "12/5/20",
+            "Progressivo": "282",
+            "Contagi": "10709"
+        },
+        {
+            "Data": "12/6/20",
+            "Progressivo": "283",
+            "Contagi": "10854"
+        },
+        {
+            "Data": "12/7/20",
+            "Progressivo": "284",
+            "Contagi": "11032"
+        },
+        {
+            "Data": "12/8/20",
+            "Progressivo": "285",
+            "Contagi": "11156"
+        },
+        {
+            "Data": "12/9/20",
+            "Progressivo": "286",
+            "Contagi": "11223"
+        },
+        {
+            "Data": "12/10/20",
+            "Progressivo": "287",
+            "Contagi": "11400"
+        },
+        {
+            "Data": "12/11/20",
+            "Progressivo": "288",
+            "Contagi": "11483"
+        },
+        {
+            "Data": "12/12/20",
+            "Progressivo": "289",
+            "Contagi": "11641"
+        },
+        {
+            "Data": "12/13/20",
+            "Progressivo": "290",
+            "Contagi": "11845"
+        },
+        {
+            "Data": "12/14/20",
+            "Progressivo": "291",
+            "Contagi": "11951"
+        },
+        {
+            "Data": "12/15/20",
+            "Progressivo": "292",
+            "Contagi": "12052"
+        },
+        {
+            "Data": "12/16/20",
+            "Progressivo": "293",
+            "Contagi": "12176"
+        },
+        {
+            "Data": "12/17/20",
+            "Progressivo": "294",
+            "Contagi": "12342"
+        },
+        {
+            "Data": "12/18/20",
+            "Progressivo": "295",
+            "Contagi": "12534"
+        },
+        {
+            "Data": "12/19/20",
+            "Progressivo": "296",
+            "Contagi": "12694"
+        },
+        {
+            "Data": "12/20/20",
+            "Progressivo": "297",
+            "Contagi": "12858"
+        },
+        {
+            "Data": "12/21/20",
+            "Progressivo": "298",
+            "Contagi": "12991"
+        },
+        {
+            "Data": "12/22/20",
+            "Progressivo": "299",
+            "Contagi": "13128"
+        },
+        {
+            "Data": "12/23/20",
+            "Progressivo": "300",
+            "Contagi": "13258"
+        },
+        {
+            "Data": "12/24/20",
+            "Progressivo": "301",
+            "Contagi": "13391"
+        },
+        {
+            "Data": "12/25/20",
+            "Progressivo": "302",
+            "Contagi": "13624"
+        },
+        {
+            "Data": "12/26/20",
+            "Progressivo": "303",
+            "Contagi": "13765"
+        },
+        {
+            "Data": "12/27/20",
+            "Progressivo": "304",
+            "Contagi": "13968"
+        },
+        {
+            "Data": "12/28/20",
+            "Progressivo": "305",
+            "Contagi": "14102"
+        },
+        {
+            "Data": "12/29/20",
+            "Progressivo": "306",
+            "Contagi": "14192"
+        },
+        {
+            "Data": "12/30/20",
+            "Progressivo": "307",
+            "Contagi": "14332"
+        },
+        {
+            "Data": "12/31/20",
+            "Progressivo": "308",
+            "Contagi": "14584"
+        },
+        {
+            "Data": "1/1/21",
+            "Progressivo": "309",
+            "Contagi": "14835"
+        },
+        {
+            "Data": "1/2/21",
+            "Progressivo": "310",
+            "Contagi": "14895"
+        },
+        {
+            "Data": "1/3/21",
+            "Progressivo": "311",
+            "Contagi": "15193"
+        },
+        {
+            "Data": "1/4/21",
+            "Progressivo": "312",
+            "Contagi": "15405"
+        },
+        {
+            "Data": "1/5/21",
+            "Progressivo": "313",
+            "Contagi": "15597"
+        },
+        {
+            "Data": "1/6/21",
+            "Progressivo": "314",
+            "Contagi": "15717"
+        },
+        {
+            "Data": "1/7/21",
+            "Progressivo": "315",
+            "Contagi": "15915"
+        },
+        {
+            "Data": "1/8/21",
+            "Progressivo": "316",
+            "Contagi": "16145"
+        },
+        {
+            "Data": "1/9/21",
+            "Progressivo": "317",
+            "Contagi": "16270"
+        },
+        {
+            "Data": "1/10/21",
+            "Progressivo": "318",
+            "Contagi": "16514"
+        },
+        {
+            "Data": "1/11/21",
+            "Progressivo": "319",
+            "Contagi": "16688"
+        },
+        {
+            "Data": "1/12/21",
+            "Progressivo": "320",
+            "Contagi": "16909"
+        },
+        {
+            "Data": "1/13/21",
+            "Progressivo": "321",
+            "Contagi": "17077"
+        },
+        {
+            "Data": "1/14/21",
+            "Progressivo": "322",
+            "Contagi": "17201"
+        },
+        {
+            "Data": "1/15/21",
+            "Progressivo": "323",
+            "Contagi": "17505"
+        },
+        {
+            "Data": "1/16/21",
+            "Progressivo": "324",
+            "Contagi": "17679"
+        },
+        {
+            "Data": "1/17/21",
+            "Progressivo": "325",
+            "Contagi": "17852"
+        },
+        {
+            "Data": "1/18/21",
+            "Progressivo": "326",
+            "Contagi": "17940"
+        },
+        {
+            "Data": "1/19/21",
+            "Progressivo": "327",
+            "Contagi": "18089"
+        },
+        {
+            "Data": "1/20/21",
+            "Progressivo": "328",
+            "Contagi": "18278"
+        },
+        {
+            "Data": "1/21/21",
+            "Progressivo": "329",
+            "Contagi": "18403"
+        },
+        {
+            "Data": "1/22/21",
+            "Progressivo": "330",
+            "Contagi": "18495"
+        },
+        {
+            "Data": "1/23/21",
+            "Progressivo": "331",
+            "Contagi": "18681"
+        },
+        {
+            "Data": "1/24/21",
+            "Progressivo": "332",
+            "Contagi": "18833"
+        },
+        {
+            "Data": "1/25/21",
+            "Progressivo": "333",
+            "Contagi": "18940"
+        },
+        {
+            "Data": "1/26/21",
+            "Progressivo": "334",
+            "Contagi": "19086"
+        },
+        {
+            "Data": "1/27/21",
+            "Progressivo": "335",
+            "Contagi": "19176"
+        },
+        {
+            "Data": "1/28/21",
+            "Progressivo": "336",
+            "Contagi": "19336"
+        },
+        {
+            "Data": "1/29/21",
+            "Progressivo": "337",
+            "Contagi": "19460"
+        },
+        {
+            "Data": "1/30/21",
+            "Progressivo": "338",
+            "Contagi": "19626"
+        },
+        {
+            "Data": "1/31/21",
+            "Progressivo": "339",
+            "Contagi": "19809"
+        },
+        {
+            "Data": "2/1/21",
+            "Progressivo": "340",
+            "Contagi": "19900"
+        },
+        {
+            "Data": "2/2/21",
+            "Progressivo": "341",
+            "Contagi": "19979"
+        },
+        {
+            "Data": "2/3/21",
+            "Progressivo": "342",
+            "Contagi": "20120"
+        }
+    ]
